@@ -6,7 +6,7 @@ import numpy as np
 
 def prepare_data():
     # Directories to data
-    data_dir = config.data_dir + "data/" + config.data_type + "_data/"
+    data_dir = config.data_dir + config.data_type + "_data/"
     train_file = config.data_type + "_train"
     valid_file = config.data_type + "_valid_2000ex"
     test_file = config.data_type + "_test_2500ex"
