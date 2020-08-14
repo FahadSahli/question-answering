@@ -5,7 +5,6 @@ The model is implemented using TensorFlow 2, and it is on HAN_Model.py. Config.p
 
 Here is an example to the run the code in training mode:
 	python3 HAN.py --training True --data ./data/ --embedding_file ./glove.6B.200d.txt
-
 The required commands are data and embedding_file
 
-HAN_Model.ipynb is a notebook version of the code. It is based on TensorFlow 1.
+The folder notebooks includes a notebook version of the model implemented using TensorFlow 1, data pre-processing, and word embeddings extracted from BERT.
