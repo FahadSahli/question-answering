@@ -8,3 +8,5 @@ Here is an example to the run the code in training mode:
 The required commands are data and embedding_file
 
 The folder notebooks includes a notebook version of the model implemented using TensorFlow 1, data pre-processing, and word embeddings extracted from BERT.
+
+Data and embeddings are shaored on https://drive.google.com/drive/folders/1cQkHI0jc11z1Huuf9Th3moOvm5YrohSO?usp=sharing 
